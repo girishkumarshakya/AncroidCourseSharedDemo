@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SharedDemo</string>
+    <string-array name="size">
+        <item>20sp</item>
+        <item>30sp</item>
+        <item>40sp</item>
+        <item>50sp</item>
+    </string-array>
+    <string-array name="value">
+        <item>20sp</item>
+        <item>30sp</item>
+        <item>40sp</item>
+        <item>50sp</item>
+    </string-array>
+</resources>
